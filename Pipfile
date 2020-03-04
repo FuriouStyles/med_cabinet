@@ -16,6 +16,7 @@ flask-blueprint = "*"
 scipy = "*"
 numpy = "*"
 scikit-learn = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.7"
